@@ -1,4 +1,4 @@
-const API_URL = "https://glutton-unkind-maker.ngrok-free.dev";
+const API_URL = "http://localhost:8081/chat";
 
 const messages = [];
 const chatLog = document.getElementById("chat-log");
