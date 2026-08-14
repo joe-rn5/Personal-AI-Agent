@@ -1,0 +1,57 @@
+{
+  "name": "Youssef Ramadan",
+  "tagline": "Computer & Communication Engineering student building software systems, data pipelines, and AI applications",
+  "location": "Alexandria, Egypt",
+  "bio": "Second-year (Term 6/10) Computer and Communication Engineering student at Alexandria University with a 3.43/4.0 GPA. Experienced in software development, data analysis, digital signal processing, and generative AI applications following completion of the CIB Summer Internship program in July 2026.",
+  "skills": [
+    "Python & Data Analytics (Pandas, NumPy, Matplotlib)",
+    "C, C++, Java & Object-Oriented Design",
+    "MATLAB & Signal Processing",
+    "VHDL & Digital Hardware Design",
+    "Generative AI & LLM Integration",
+    "Git, GitHub & VS Code"
+  ],
+  "projects": [
+    {
+      "name": "FlyRank ML Internship Pipeline",
+      "description": "Machine learning pipeline workspace for the FlyRank ML Track featuring data discovery notebooks, baseline vs. learned model evaluations, and DuckDB data processing.",
+      "tech": ["Python", "DuckDB", "Machine Learning"],
+      "link": "https://github.com/joe-rn5/flyrank-ml-internship.git"
+    },
+    {
+      "name": "Skill-Forge & UML Design",
+      "description": "Java desktop GUI application designed for generating and managing course completion certificates, supported by full UML architectural design documentation.",
+      "tech": ["Java", "Swing GUI", "UML", "OOP"],
+      "link": ""
+    },
+    {
+      "name": "Digital Signal Processing (DSP) Final Project",
+      "description": "Advanced signal analysis pipeline utilizing MATLAB for spectral analysis, Fourier transforms, energy bandwidth calculations, and IIR filter design.",
+      "tech": ["MATLAB", "DSP Toolbox", "Signal Analysis"],
+      "link": ""
+    },
+    {
+      "name": "Inventory Management System",
+      "description": "Robust software system built for tracking, organizing, and managing inventory records efficiently.",
+      "tech": ["Java", "OOP", "File Processing"],
+      "link": ""
+    },
+    {
+      "name": "Student Management System",
+      "description": "Administrative utility designed to handle student records, academic data tracking, and structured reporting.",
+      "tech": ["Java", "Data Structures"],
+      "link": ""
+    },
+    {
+      "name": "Sudoku Game & Checker",
+      "description": "Interactive Sudoku game implementation accompanied by an automated logical validation and puzzle checking module.",
+      "tech": ["Java", "Algorithms"],
+      "link": ""
+    }
+  ],
+  "contact": {
+    "email": "joeramx@icloud.com",
+    "github": "https://github.com/joe-rn5",
+    "linkedin": "https://www.linkedin.com/in/youssef-ramadan-2589482a5/"
+  }
+}
