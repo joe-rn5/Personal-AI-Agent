@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8081/chat";
+const API_URL = "https://mats-blessed-determines-lbs.trycloudflare.com/chat";
 
 const messages = [];
 const chatLog = document.getElementById("chat-log");

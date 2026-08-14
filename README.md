@@ -4,7 +4,7 @@
 
 An AI agent embedded on my portfolio site that answers questions about my background, skills, and projects — using real tool calls against my own data, not a static FAQ or a scripted bot.
 
-**Live demo:** [your-site.com](https://your-site.com) _(add once deployed)_
+**Live demo:** [https://sage-klepon-4537d3.netlify.app](https://your-site.com) 
 
 ## What it does
 
@@ -79,8 +79,8 @@ Open `frontend/index.html` in a browser.
 
 ## Author
 
-**[Your Name]** — Computer Engineering student
-[GitHub](https://github.com/you) · [LinkedIn](https://linkedin.com/in/you)
+**Youssef Ramadan** — Computer Engineering student
+
 
 Built as the technical centerpiece of my AI fluency capstone.
 
